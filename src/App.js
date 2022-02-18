@@ -1,11 +1,8 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
 
 function App() {
-  return (
-    <div>
-      App Placeholder
-    </div>
-  );
+  return <div>App Placeholder</div>;
 }
 
 export default App;
